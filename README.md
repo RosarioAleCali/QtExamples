@@ -11,7 +11,7 @@ The programs include, but are not limited to, the following Qt Topics:
 * Using MySql within Qt
 * Qt WebEngine
 
-Please read the description and/or the README.md file of each sub-project to find out what each project is about.
+Please read the README.md file for each sub-project to find out what each project is about.
 
 ## System Requirements
 To successfully compile and run these code examples using the project file provided you will need:
