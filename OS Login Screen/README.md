@@ -10,3 +10,6 @@ In this small program I have learned about the following:
 * Use QLineEdit, also for Passwords.
 * Horizontal/Vertical Layouts.
 * Horizontal/Vertical Spacers.
+
+
+![Alt text](QtExamples/OS Login Screen/Screenshoot.PNG  "Program Screenshoot")
