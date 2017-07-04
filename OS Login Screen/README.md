@@ -13,4 +13,4 @@ In this small program I have learned about the following:
 
 
 
-![Alt text](https://github.com/RosarioAleCali/QtExamples/blob/master/OS%20Login%20Screen/Capture.PNG "Program Screenshoot")
+![Alt text](https://github.com/RosarioAleCali/QtExamples/blob/master/OS%20Login%20Screen/Capture.PNG "Optional title")
