@@ -12,4 +12,4 @@ In this small program I have learned about the following:
 * Horizontal/Vertical Spacers.
 
 
-![Alt text](QtExamples/OS Login Screen/Screenshoot.PNG  "Program Screenshoot")
+![Alt text](/QtExamples/OS Login Screen/Screenshoot.PNG  "Program Screenshoot")
